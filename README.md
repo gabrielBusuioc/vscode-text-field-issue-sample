@@ -2,7 +2,7 @@
 
 ```bash
 # Copy sample extension locally
-npx degit microsoft/vscode-webview-ui-toolkit-samples/frameworks/hello-world-angular hello-world
+npx degit gabrielBusuioc/vscode-text-field-issue-sample hello-world
 
 # Navigate into sample directory
 cd hello-world
