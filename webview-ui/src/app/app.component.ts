@@ -31,11 +31,4 @@ provideVSCodeDesignSystem().register(vsCodeTextField());
 })
 export class AppComponent {
   title = "hello-world";
-
-  handleHowdyClick() {
-    vscode.postMessage({
-      command: "hello",
-      text: "Hey there partner! 🤠",
-    });
-  }
 }
